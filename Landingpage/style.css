@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
+.container {
+  display: flex;
+  max-width: 1000px;
+  width: 100%;
+  margin: auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.quote-box {
+  max-width: 1000px;
+  width: 100%;
+  margin: 100px 0px;
+}
+
+.name {
+  text-align: right;
+}
+
+#block2 {
+  display: flex;
+  justify-content: center;
+
+}
+
+#block2 .container {
+  flex-basis: 100%;
+  flex-wrap: wrap;
+  justify-content: stretch;
+  padding: 100px 0px;
+}
+
+.little-squares {
+  width: 100%;
+  justify-content: center;
+  gap: 20px;  
+}
+
+.little-squares img {
+  width: 150px;
+  border: 5px solid #3882F6;
+  border-radius: 20px;
+}
+
+.square {
+  width: 900px;
+  justify-content: center;
+}
+
+#block3 {
+  display: flex;
+  justify-content: center;
+  background-color: #E5E7EB;
+  color: #1F2937;
+  font-size: 36px;
+  font-style: italic;
+}
+
+#block3 .container {
+  align-items: stretch;
+  gap: 40px;
+  padding: 400px 10px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  background-color: #1F2937;
+  
+}
+
+.right-links {
+  font-size: 18px;
+  color: #E5E7EB;
+  display: flex;
+  gap: 15px;
+}
+
+.header-logo {
+  font-size: 24px;
+  color:#F9FAF8;
+}
+
+#hero {
+  display: flex;
+  justify-content: center;
+  background-color: #1F2937;
+  color: #F9FAf8;
+}
+
+#hero .container {
+  align-items: stretch;
+  gap: 40px;
+  padding: 100px 0;
+}
+
+#hero .column1 {
+  flex: 4;
+}
+
+#hero .column2 {
+  flex: 6;
+  background-image: url('https://cdn.pixabay.com/photo/2018/07/08/18/09/mallard-3524390_960_720.jpg');
+  background-size: cover;
+  background-position: bottom left;
+}
+
+#hero .column2 img {
+  width: 100%;
+}
+
+#hero h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  margin: 0;
+
+}
+
+#hero p {
+  font-size: 18px;
+  color: #E5E7EB;
+
+}
+
+#block2 {
+  background-color: #F9FAF8;
+  justify-content: center;
+  display: block;
+}
+
+.little-squares {
+  display: flex;
+}
+
+button {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  padding: 10px 28px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+#Call-to-action {
+  display: flex;
+  padding: 50px;
+  justify-content: center;
+}
+
+#Call-to-action .container {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  padding: 50px 30px;
+  margin: 100px 0px;
+  border-radius: 20px;
+}
+
+#Call-to-action button {
+  border-color: #F9FAF8;
+}
+
+/* utilieeasjaes */
+
+.w-40 {
+  width: 40%;
+}
+
+.w-60 {
+  width: 60%;
+}
