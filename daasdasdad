@@ -1,0 +1,35 @@
+[33mcommit eb1bcfadd20a9b4b451818e829566f77f4c7c948[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mrps2[m[33m)[m
+Author: nortnorthnorthnorth <north.sprung@gmail.com>
+Date:   Fri Jan 27 04:35:54 2023 -0500
+
+    added ui to  this application + ability to start  a new game
+
+[33mcommit e42f1e17beb2760033e4f4686e69af4d22a5f762[m[33m ([m[1;31morigin/rps2[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: nortnorthnorthnorth <north.sprung@gmail.com>
+Date:   Sat Jan 21 09:08:04 2023 -0500
+
+    add empty files
+
+[33mcommit 457478b1e906fca92e525009873ccca3acbc0eab[m
+Author: nortnorthnorthnorth <north.sprung@gmail.com>
+Date:   Wed Jan 4 22:25:49 2023 -0500
+
+    draft v1
+
+[33mcommit 24a929f8ccce62b01c043f82e226cd3212b88e65[m
+Author: northnorthnorthnorth <north.sprung@gmail.com>
+Date:   Sat Dec 10 11:54:52 2022 -0500
+
+    Edit README.md and hello_world.txt.
+
+[33mcommit dd14cfb2d49a9feb0df302a42e85db5cf3870c50[m
+Author: northnorthnorthnorth <north.sprung@gmail.com>
+Date:   Sat Dec 10 11:50:09 2022 -0500
+
+    Add hello_world.txt.
+
+[33mcommit e8dbd303ea68ec1eb763b61170f2d107ac08296d[m
+Author: northnorthnorthnorth <119715338+northnorthnorthnorth@users.noreply.github.com>
+Date:   Sat Dec 10 11:31:48 2022 -0500
+
+    Initial commit
